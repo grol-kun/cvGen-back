@@ -26,6 +26,9 @@
     },
     "skills": {
       "type": "json"
+    },
+    "user": {
+      "type": "json"
     }
   }
 }
